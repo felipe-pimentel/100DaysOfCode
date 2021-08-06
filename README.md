@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# **#100DaysOfCode** - by Felipe Pimentel
 
-## Getting Started
+## **Sobre**
 
-First, run the development server:
+Este repositório foi feito para registrar a minha caminhada no desafio do [#100DaysOfCode](https://www.100daysofcode.com).
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+A premissa do desafio é simples: codar diariamente por pelo menos uma hora durante 100 dias, visando a prática e o aprendizado constantes.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Meus principais objetivos neste desafio:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+* Praticar e me aprofundar mais em **React**;
+* Aprender **TypeScript**;
+* Aprender **Vue.js**;
+* Melhorar minhas habilidades em **CSS** (e **Sass**) para criar layouts melhores e acessíveis para todas as pessoas usuárias;
+* Praticar a parte de back-end (e talvez aprender mais alguma linguagem nova? Quem sabe?).
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## **Log diário (temporário)**
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+* ### *Dia 1 [05/08/2021]*
+Criei o repositório do desafio e fiz as primeiras páginas do site que utilizarei para registrar o meu andamento.
 
-## Learn More
+Utilizei Next.js pela primeira vez e estou aprendendo o básico através [desse tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw). Ainda estou bem no começo, mas do que eu pude ver, parece bem simples e prático de utilizar. Quase dá vontade de nunca mais fazer uma aplicação React pura.
 
-To learn more about Next.js, take a look at the following resources:
+Para amanhã, pretendo fazer as primeiras estilizações e tentar implementar as rotas dinâmicas.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## **Links**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* [#100DaysOfCode Official Website](https://www.100daysofcode.com)
+* [#100DaysOfCode Journal Template Repository (opcional)](https://github.com/Kallaway/100-days-of-code)
