@@ -6,7 +6,7 @@ const Header = () => {
       <h1>#100DaysOfCode</h1>
       <nav>
         <Link href="/"><a>HOME</a></Link>
-        <Link href="/about"><a>SOBRE</a></Link>
+        <Link href="/about"><a>ABOUT</a></Link>
       </nav>
     </header>
   );

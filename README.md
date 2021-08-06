@@ -23,6 +23,13 @@ Utilizei Next.js pela primeira vez e estou aprendendo o básico através [desse 
 
 Para amanhã, pretendo fazer as primeiras estilizações e tentar implementar as rotas dinâmicas.
 
+* ### *Dia 2 [06/08/2021]*
+Apliquei uma estilização básica para poder visualizar melhor os elementos na tela. Eu cheguei a fazer anteriormente um projeto separado para testar algumas propriedades diferentes, envolvendo gradientes animados e opção de dark mode. Já deixei essas propriedades nesse projeto mas ainda preciso decidir se irei mantê-las ou não.
+
+Para implementar os cards (e futuramente os posts), eu estou utilizando arquivos markdown. Adicionei dois pacotes npm a esse projeto: o [gray-matter](https://www.npmjs.com/package/gray-matter) e o [marked](https://www.npmjs.com/package/marked). Com o *gray-matter*, eu fui capaz de extrair algumas informações desses arquivos markdown e utilizá-las para construir os cards. O *marked* será utilizado para transformar automática o conteúdo dos posts em HTML. Essa ideia de utilizar arquivos markdown dessa forma para alimentar os posts foi tirada [desse vídeo](https://www.youtube.com/watch?v=MrjeefD8sac).
+
+Por hoje, eu vou parar por aqui, porque preciso dar atenção a um projeto do curso. Se tudo der certo, amanhã eu finalizo essa página e faço o deploy.
+
 ## **Links**
 
 * [#100DaysOfCode Official Website](https://www.100daysofcode.com)

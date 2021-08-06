@@ -1,4 +1,4 @@
-html,
+/* html,
 body {
   padding: 0;
   margin: 0;
@@ -13,4 +13,126 @@ a {
 
 * {
   box-sizing: border-box;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Chivo:wght@300;700;900&family=Major+Mono+Display&display=swap');
+
+:root {
+  --clr-bg: hsl(0, 0%, 97%);
+  --clr-header-bg: hsl(197, 62%, 65%);
+  --clr-header-text: hsl(0, 0%, 18%);
+  --clr-nav-bg: hsl(0, 0%, 18%);
+  --clr-nav-text: hsl(0, 0%, 97%);
+  --clr-card-bg: hsl(197, 62%, 90%);
+  --clr-card-border: hsl(0, 0%, 18%);
+  --clr-card-text: hsl(0, 0%, 18%);
+  --clr-card-title: hsl(197, 62%, 40%);
+  --clr-card-tag-bg: hsl(197, 62%, 40%);
+  --clr-card-tag-text: hsl(0, 0%, 97%);
+  --bs: 5px 5px 5px 0px hsla(0, 0%, 18%, 40%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  background-color: var(--clr-bg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dark {
+  --clr-bg: hsl(0, 0%, 38%);
+  --clr-header-bg: hsl(0, 0%, 18%);
+  --clr-header-text: hsl(197, 62%, 65%);
+  --clr-nav-bg: hsl(197, 62%, 65%);
+  --clr-nav-text: hsl(0, 0%, 18%);
+  --clr-card-bg: hsl(0, 0%, 18%);
+  --clr-card-border: hsl(0, 0%, 97%);
+  --clr-card-text: hsl(0, 0%, 97%);
+  --clr-card-title: hsl(197, 62%, 40%);
+  --clr-card-tag-bg: hsl(197, 62%, 40%);
+  --clr-card-tag-text: hsl(0, 0%, 97%);
+  --bs: 5px 5px 5px 0px hsla(0, 0%, 18%, 40%);
+}
+
+header {
+  background-color: var(--clr-header-bg);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+header h1 {
+  color: var(--clr-header-text);
+  font-family: 'Major Mono Display', monospace;
+  font-size: 2rem;
+  height: 7.5rem;
+  line-height: 7.5rem;
+}
+
+@media screen and (min-width: 32rem) {
+  header h1 {
+    font-size: 2.25rem;
+  }
+}
+
+nav {
+  background-color: var(--clr-nav-bg);
+  display: flex;
+  justify-self: end;
+  align-items: center;
+  justify-content: center;
+  gap: 120px;
+  width: 100%;
+}
+
+nav a {
+  font-family: 'Chivo', sans-serif;
+  font-size: 1.5rem;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  font-weight: 700;
+  color: var(--clr-nav-text);
+  text-decoration: none;
+}
+
+section {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  display: grid;
+  max-width: 50rem;
+}
+
+article {
+  max-width: 50rem;
+}
+
+article h2 {
+  font-size: 1.75rem;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+article p {
+  max-width: 75ch;
+  margin: 0 1.5rem 1.5rem;
+  line-height: 1.4;
+}
+
+article ul {
+  max-width: 75ch;
+  margin: 0 1.5rem 1.5rem;
+}
+
+article ul li{
+  margin-left: 1.5rem;
+  margin-bottom: 0.5rem;
 }
