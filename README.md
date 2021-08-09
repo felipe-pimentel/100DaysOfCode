@@ -30,6 +30,14 @@ Para implementar os cards (e futuramente os posts), eu estou utilizando arquivos
 
 Por hoje, eu vou parar por aqui, porque preciso dar atenção a um projeto do curso. Se tudo der certo, amanhã eu finalizo essa página e faço o deploy.
 
+* ### *Dia 3 [07/08/2021]*
+Cheguei em 60% do trabalho do curso. Foi mais complicado do que eu esperava e acabei não podendo focar em um projeto pessoal.
+
+* ### *Dia 4 [08/08/2021]*
+Foi dia dos pais e tive pouco tempo para trabalhar, então decidi focar em chegar no patamar mínimo (80%) para garantir a aprovação do trabalho do curso.
+
+Consegui fechar em 90% e amanhã voltarei ao desafio com meus projetos próprios.
+
 ## **Links**
 
 * [#100DaysOfCode Official Website](https://www.100daysofcode.com)
