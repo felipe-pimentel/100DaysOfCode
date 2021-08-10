@@ -38,6 +38,11 @@ Foi dia dos pais e tive pouco tempo para trabalhar, então decidi focar em chega
 
 Consegui fechar em 90% e amanhã voltarei ao desafio com meus projetos próprios.
 
+* ### *Dia 5 [09/08/2021]*
+Voltei para esse projeto e implementei as rotas dinâmicas para os posts diários.
+
+Agora só falta terminar de estilizar e fazer o deploy. Amanhã vou finalizar esse projeto e pensar em alguma coisa nova pra começar.
+
 ## **Links**
 
 * [#100DaysOfCode Official Website](https://www.100daysofcode.com)

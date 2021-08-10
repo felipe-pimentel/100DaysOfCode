@@ -1,20 +1,3 @@
-/* html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-* {
-  box-sizing: border-box;
-} */
-
 @import url('https://fonts.googleapis.com/css2?family=Chivo:wght@300;700;900&family=Major+Mono+Display&display=swap');
 
 :root {
@@ -43,6 +26,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
+  min-height: 100vh;
 }
 
 .dark {
@@ -107,6 +91,7 @@ section {
   padding-top: 2rem;
   padding-bottom: 2rem;
   display: grid;
+  gap: 1rem;
   max-width: 50rem;
 }
 
