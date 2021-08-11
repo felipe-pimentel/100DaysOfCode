@@ -43,6 +43,11 @@ Voltei para esse projeto e implementei as rotas dinâmicas para os posts diário
 
 Agora só falta terminar de estilizar e fazer o deploy. Amanhã vou finalizar esse projeto e pensar em alguma coisa nova pra começar.
 
+* ### *Dia 6 [10/08/2021]*
+Acabei tendo a ideia de última hora para implementar uma página separada para indexar os posts de acordo com as tags utilizadas para cada tecnologia. Confesso que me enrolei um pouco por conta de um erro que demorei pra notar mas acabei conseguindo resolver sem maiores problemas.
+
+Amanhã, vou voltar para esse projeto para finalizá-lo (assim espero) e corrigir um problema com os links dos cards. E vou aproveitar para rever e modificar a estilização dos cards.
+
 ## **Links**
 
 * [#100DaysOfCode Official Website](https://www.100daysofcode.com)

@@ -7,7 +7,13 @@ const Card = ({ post: { id, frontmatter: { title, tags, excerpt } } }) => {
       <a className={styles.card}>
         <h2 className={styles.dayId} >#{title}</h2>
         <ul className={styles.tags}>
-          {tags.map((tag, index) => <li key={index}>{tag}</li>)}
+          {tags.map((tag, index) => (
+          <li key={index}>
+            <Link href={`/tag/${tag.replace('.', '-').toLowerCase()}`}>
+              <a>{tag}</a>
+            </Link>
+          </li>
+          ))}
         </ul>
         <p className={styles.excerpt}>{excerpt}</p>
       </a>
