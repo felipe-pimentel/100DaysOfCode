@@ -14,11 +14,6 @@ const postsByTag = ({ postsByTag }) => {
 }
 
 export async function getStaticPaths() {
-  // const files = fs.readdirSync(path.join('posts'));
-  // const paths = files.map(filename => {
-  //   const tag = filename.replace('.md', '').replace('.', '-').toLowerCase();
-  //   return { params: { tag } };
-  // });
   const tagsList = [];
   const files = fs.readdirSync(path.join('posts'));
   files.forEach((filename) => {

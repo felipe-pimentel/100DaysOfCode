@@ -88,14 +88,18 @@ nav a {
 }
 
 section {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  /* padding-top: 2rem;
+  padding-bottom: 2rem; */
+  padding: 2rem 1.5rem;
   display: grid;
   gap: 1rem;
+  min-width: 18.75rem;
   max-width: 50rem;
 }
 
 article {
+  padding: 2rem 1.5rem;
+  min-width: 18.75rem;
   max-width: 50rem;
 }
 

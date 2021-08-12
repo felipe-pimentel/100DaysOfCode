@@ -48,6 +48,9 @@ Acabei tendo a ideia de última hora para implementar uma página separada para 
 
 Amanhã, vou voltar para esse projeto para finalizá-lo (assim espero) e corrigir um problema com os links dos cards. E vou aproveitar para rever e modificar a estilização dos cards.
 
+* ### *Dia 7 [11/08/2021]*
+Não tive muito tempo para focar no projeto do desafio então só fiz umas pequenas alterações e reestruturei os cards.
+
 ## **Links**
 
 * [#100DaysOfCode Official Website](https://www.100daysofcode.com)
