@@ -51,6 +51,13 @@ Amanhã, vou voltar para esse projeto para finalizá-lo (assim espero) e corrigi
 * ### *Dia 7 [11/08/2021]*
 Não tive muito tempo para focar no projeto do desafio então só fiz umas pequenas alterações e reestruturei os cards.
 
+* ### *Dia 8 [12/08/2021]*
+Terminei de fazer a reestruturação dos cards que comecei no dia anterior. Precisei repensar todo o CSS dos cards e mudei de grid para flexbox. Gostei muito do resultado. Acho que ficou simples e elegante.
+
+Para amanhã, pretendo terminar as estilizações que faltaram e deixar tudo responsivo. E quem sabe finalmente terminar tudo para partir para outros projetos.
+
+---
+
 ## **Links**
 
 * [#100DaysOfCode Official Website](https://www.100daysofcode.com)

@@ -8,10 +8,15 @@
   --clr-nav-text: hsl(0, 0%, 97%);
   --clr-card-bg: hsl(197, 62%, 90%);
   --clr-card-border: hsl(0, 0%, 18%);
+  --clr-card-border-gradient: hsl(197, 62%, 40%);
   --clr-card-text: hsl(0, 0%, 18%);
-  --clr-card-title: hsl(197, 62%, 40%);
-  --clr-card-tag-bg: hsl(197, 62%, 40%);
-  --clr-card-tag-text: hsl(0, 0%, 97%);
+  --clr-card-title: hsl(197, 62%, 65%);
+  --clr-card-title-hover: hsl(197, 62%, 40%);
+  --clr-card-tag-bg: hsl(197, 62%, 65%);
+  --clr-card-tag-text: hsl(0, 0%, 18%);
+  --clr-card-btn-bg: hsl(197, 62%, 40%);
+  --clr-card-btn-bg-hover: hsl(197, 62%, 65%);
+  --clr-card-btn-text: hsl(0, 0%, 97%);
   --bs: 5px 5px 5px 0px hsla(0, 0%, 18%, 40%);
 }
 
@@ -37,6 +42,7 @@ main {
   --clr-nav-text: hsl(0, 0%, 18%);
   --clr-card-bg: hsl(0, 0%, 18%);
   --clr-card-border: hsl(0, 0%, 97%);
+  --clr-card-border-gradient: hsl(197, 62%, 40%);
   --clr-card-text: hsl(0, 0%, 97%);
   --clr-card-title: hsl(197, 62%, 40%);
   --clr-card-tag-bg: hsl(197, 62%, 40%);
@@ -73,7 +79,7 @@ nav {
   justify-self: end;
   align-items: center;
   justify-content: center;
-  gap: 120px;
+  gap: 3rem;
   width: 100%;
 }
 
@@ -93,14 +99,16 @@ section {
   padding: 2rem 1.5rem;
   display: grid;
   gap: 1rem;
-  min-width: 18.75rem;
-  max-width: 50rem;
+  /* min-width: 18.75rem;
+  max-width: 50rem; */
+  width: clamp(18.75rem, 100%, 50rem);
 }
 
 article {
   padding: 2rem 1.5rem;
-  min-width: 18.75rem;
-  max-width: 50rem;
+  /* min-width: 18.75rem;
+  max-width: 50rem; */
+  width: clamp(18.75rem, 100%, 50rem);
 }
 
 article h2 {
