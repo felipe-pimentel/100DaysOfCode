@@ -56,6 +56,9 @@ Terminei de fazer a reestruturação dos cards que comecei no dia anterior. Prec
 
 Para amanhã, pretendo terminar as estilizações que faltaram e deixar tudo responsivo. E quem sabe finalmente terminar tudo para partir para outros projetos.
 
+* ### *Dia 9 [13/08/2021]*
+A grande lição do dia é "não negligenciar mobile-first". Dá muito trabalho fazer primeiro pra desktop e depois tentar adaptar pra mobile.
+
 ---
 
 ## **Links**
