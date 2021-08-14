@@ -59,6 +59,11 @@ Para amanhã, pretendo terminar as estilizações que faltaram e deixar tudo res
 * ### *Dia 9 [13/08/2021]*
 A grande lição do dia é "não negligenciar mobile-first". Dá muito trabalho fazer primeiro pra desktop e depois tentar adaptar pra mobile.
 
+* ### *Dia 10 [14/08/2021]*
+Mais uma pausa no projeto pessoal para poder focar num projeto do curso. Dessa vez, o trabalho envolve montar um chat utilizando Express e Socket.io.
+
+Ainda não avancei muito, mas fiz um rascunho da estrutura do site e um básico de estilização, como você pode ver nesse [Codepen](https://codepen.io/felipepimentel/pen/PomgWZK).
+
 ---
 
 ## **Links**
