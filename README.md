@@ -64,6 +64,17 @@ Mais uma pausa no projeto pessoal para poder focar num projeto do curso. Dessa v
 
 Ainda não avancei muito, mas fiz um rascunho da estrutura do site e um básico de estilização, como você pode ver nesse [Codepen](https://codepen.io/felipepimentel/pen/PomgWZK).
 
+* ### *Dia 11 [15/08/2021]*
+Eu não planejava trabalhar neste projeto hoje mas, inspirado por [este vídeo](https://www.youtube.com/watch?v=k3YHfp8Bp_E) que apareceu nas minhas recomendações, resolvi alterar mais uma vez nos cards dos posts e fiquei bastante satisfeito com o resultado.
+
+Aproveitei pra reestilizar as páginas e mexi no *footer*, adicionando os links para os meus perfis no [GitHub](https://github.com/felipe-pimentel) e no [LinkedIn](https://linkedin.com/in/felipe-pimentel-web-dev/). Para ilustrar os links, utilizei ícones svg a partir do pacote do [Iconify](https://iconify.design).
+
+Agora só resta a página das *tags*. Estou imaginando uma estilização envolvendo *grids* que eu não sei ainda se vai dar certo, mas vou pensar nisso com mais calma e depois vou fazer esse experimento.
+
+Mas acredito que agora o site esteja finalmente pronto. Vou só tentar isso que mencionei para a página de *tags*. Se não der certo, eu faço algo mais simples e faço o deploy. E como acho que demorei muito pra terminar esse projeto, vou tentar compensar esses dias lá no final.
+
+#110DaysOfCode? Quem sabe...
+
 ---
 
 ## **Links**

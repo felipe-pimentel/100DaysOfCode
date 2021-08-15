@@ -8,8 +8,17 @@ const dailyPost = ({ id, frontmatter: { title, tags }, content }) => {
   return (
     <article>
       <h2>Dia #{title}</h2>
-      <ul className="post-tags">
+      {/* <ul className="post-tags">
         {tags.map((tag, index) => (<li key={index}>{tag}</li>))}
+      </ul> */}
+      <ul className="post-tags">
+        {tags.map((tag, index) => (
+        <li key={index}>
+          <Link href={`/tag/${tag.replace('.', '-').toLowerCase()}`}>
+            <a>{tag}</a>
+          </Link>
+        </li>
+        ))}
       </ul>
       <div dangerouslySetInnerHTML={ { __html: marked(content) } }></div>
     </article>
