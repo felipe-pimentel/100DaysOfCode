@@ -69,11 +69,11 @@ Eu não planejava trabalhar neste projeto hoje mas, inspirado por [este vídeo](
 
 Aproveitei pra reestilizar as páginas e mexi no *footer*, adicionando os links para os meus perfis no [GitHub](https://github.com/felipe-pimentel) e no [LinkedIn](https://linkedin.com/in/felipe-pimentel-web-dev/). Para ilustrar os links, utilizei ícones svg a partir do pacote do [Iconify](https://iconify.design).
 
-Agora só resta a página das *tags*. Estou imaginando uma estilização envolvendo *grids* que eu não sei ainda se vai dar certo, mas vou pensar nisso com mais calma e depois vou fazer esse experimento.
+~~Agora só resta a página das *tags*. Estou imaginando uma estilização envolvendo *grids* que eu não sei ainda se vai dar certo, mas vou pensar nisso com mais calma e depois vou fazer esse experimento. Mas acredito que agora o site esteja finalmente pronto. Vou só tentar isso que mencionei para a página de *tags*. Se não der certo, eu faço algo mais simples e faço o deploy.~~
 
-Mas acredito que agora o site esteja finalmente pronto. Vou só tentar isso que mencionei para a página de *tags*. Se não der certo, eu faço algo mais simples e faço o deploy. E como acho que demorei muito pra terminar esse projeto, vou tentar compensar esses dias lá no final.
+Não me aguentei... fiquei pensando no código da página de *tags* e fui testar. Aí acabei terminando o projeto (mais ou menos porque ainda preciso fazer o *dark mode*, mas isso fica pra quando eu estiver de bobeira porque sinto que já passei muito tempo nesse projeto e quero fazer outras coisas).
 
-#110DaysOfCode? Quem sabe...
+E como acho que demorei muito pra terminar esse projeto, vou tentar compensar esses dias lá no final. #110DaysOfCode? Quem sabe...
 
 ---
 

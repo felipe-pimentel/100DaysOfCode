@@ -267,7 +267,7 @@
   transition: ease-in-out 0.2s;
 }
 
-@media screen and (min-width: 28rem) {
+@media screen and (min-width: 33rem) {
   .card {
     background: linear-gradient(var(--clr-card-bg), var(--clr-card-bg)) padding-box,
     linear-gradient(var(--clr-card-border), var(--clr-card-border)) border-box;
