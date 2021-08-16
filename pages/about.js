@@ -15,8 +15,8 @@ const About = () => {
         <li>Praticar a parte de back-end (e talvez aprender mais alguma linguagem nova? Quem sabe?).</li>
       </ul>
       <p>Enfim, estou começando esse desafio hoje, no dia 05 de Agosto de 2021 e espero conseguir seguir firme até o final. Eu vou usar essa página para registrar todos o meu progresso. Como estou aproveitando essa página para aprender Next.js, nos primeiros dias, vou deixar o progresso registrado no README do repositório, mas juro que muito em breve, tudo vai estar aqui direitinho.</p>
-      <p>Meu muito obrigado para você que está lendo isso e, se quiser entrar em contato comigo, é só me procurar no <a href="https://www.linkedin.com/in/felipe-pimentel-web-dev/" target="_blank" rel="noreferrer">LinkedIn</a>, no <a href="https://github.com/felipe-pimentel" target="_blank" rel="noreferrer">GitHub</a> ou enviar um e-mail para lipe.pimentel89@gmail.com.</p>
-      <p className="author">Felipe Pimentel</p>
+      <p>Meu muito obrigado para você que está lendo isso e, se quiser entrar em contato comigo, é só me procurar no <a href="https://www.linkedin.com/in/felipe-pimentel-web-dev/" target="_blank" rel="noreferrer">LinkedIn</a>, no <a href="https://github.com/felipe-pimentel" target="_blank" rel="noreferrer">GitHub</a> ou enviar um e-mail para <a href="mailto:lipe.pimentel89@gmail.com" target="_blank" rel="noreferrer">lipe.pimentel89@gmail.com</a>.</p>
+      <p className="author"><strong>Felipe Pimentel</strong></p>
     </article>
   );
 }

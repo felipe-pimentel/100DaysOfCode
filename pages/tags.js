@@ -9,7 +9,6 @@ const TagsList = ({ tags }) => {
       <h2>Tags</h2>
       <ul className="tags-list">
         {tags.map((tag, index) => (
-        // <li key={index} style={{gridColumn: `span ${tag[1]}`, gridRow: `span ${tag[1]}`}}>
         <li key={index} style={{'--span': `${tag[1]}`}}>
           <Link href={`/tag/${tag[0].replace('.', '-').toLowerCase()}`}>
             <a>
@@ -23,27 +22,8 @@ const TagsList = ({ tags }) => {
   );
 }
 
-// export async function getStaticProps() {
-//   const tagsList = [];
-//   const files = fs.readdirSync(path.join('posts'));
-//   files.forEach((filename) => {
-//     const markdownWithMeta = fs.readFileSync(path.join('posts', filename), 'utf-8');
-//     const { data: { tags } } = matter(markdownWithMeta);
-//     tags.forEach((tag) => { if (!tagsList.includes(tag)) tagsList.push(tag) });
-//   });
-//   return {
-//     props: {
-//       tags: tagsList
-//     }
-//   }
-// }
-
 const spanValue = (currentValue, maxValue) => {
   const ratio = currentValue / maxValue;
-  // if (ratio > 0.8) return 5;
-  // if (ratio > 0.6) return 4;
-  // if (ratio > 0.4) return 3;
-  // if (ratio > 0.2) return 2;
   if (ratio > 0.75) return 4;
   if (ratio > 0.5) return 3;
   if (ratio > 0.25) return 2;

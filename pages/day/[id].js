@@ -8,9 +8,6 @@ const dailyPost = ({ id, frontmatter: { title, tags }, content }) => {
   return (
     <article>
       <h2>Dia #{title}</h2>
-      {/* <ul className="post-tags">
-        {tags.map((tag, index) => (<li key={index}>{tag}</li>))}
-      </ul> */}
       <ul className="post-tags">
         {tags.map((tag, index) => (
         <li key={index}>
