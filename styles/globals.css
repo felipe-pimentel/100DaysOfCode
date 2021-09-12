@@ -191,6 +191,7 @@ article ul li{
   font-size: 0.75rem;
   font-size: calc(0.75rem * var(--span));
   text-decoration: none;
+  text-align: center;
   color: black;
   display: flex;
   justify-content: center;
